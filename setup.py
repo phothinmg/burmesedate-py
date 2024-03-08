@@ -17,11 +17,11 @@ setup(
     extras_require={
         'dev': ['pytest', 'pylint', 'coverage', 'black', 'genbadge'],
     },
-    url="https://github.com/phothinmg/burmethon",
+    url="https://github.com/phothinmg/burmesedate-py/blob/main/README.md",
 
     project_urls={
-        'Source Code': 'https://github.com/phothinmg/burmethon/tree/main/burmethon',
-        'Bug Tracker': 'https://github.com/phothinmg/burmethon/issues',
+        'Source Code': 'https://github.com/phothinmg/burmesedate-py/tree/main/burmesedate',
+        'Bug Tracker': 'https://github.com/phothinmg/burmesedate-py/issues',
     },
-    license="Apache-2.0",
+    license="MIT",
 )
