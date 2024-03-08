@@ -294,5 +294,3 @@ class burmesedate:
 
 
 
-a = burmesedate(2024, 3, 7)
-print(a.sabbath_eng)

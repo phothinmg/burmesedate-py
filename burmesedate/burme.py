@@ -2,46 +2,6 @@
 """
 # Getting Burmese Calendar Data
 
----
-
-## Burmese Calendar Eras
-
-| Era            	| Description                  	| Definition                            	|
-|----------------	|------------------------------	|---------------------------------------	|
-| The first era  	| The era of Myanmar kings     	| 1216 ME (1854 CE) and before          	|
-| The second era 	| The era under British colony 	| 1217 ME - 1311 ME (1855 CE - 1949 CE) 	|
-| The third era  	| The era after Independence   	| 1312 ME (1950 CE) and after           	|
-
-`burmethon.burme.get_my_const`
----
-
-## Month in Burmese Calendar 
-
-- myt = 0 ->  common year
-
-- myt = 1 ->  year with the intercalary month / little watat
-
-- myt = 2 ->  year with both the intercalary month 
-              and the intercalary day / big watat
-
-
-| **Name**    	| **myt=0** 	| **myt=1** 	| **myt=2** 	| **No.** 	|
-|-------------	|:---------:	|:---------:	|:---------:	|---------	|
-| Tagu        	|     29    	|     29    	|     29    	| 1       	|
-| Kason       	|     30    	|     30    	|     30    	| 2       	|
-| Nayon       	|     29    	|     29    	|   **30**  	| 3       	|
-| 1st Waso    	|           	|   **30**  	|   **30**  	| 0       	|
-| Waso        	|     30    	|     30    	|     30    	| 4       	|
-| Wagaung     	|     29    	|     29    	|     29    	| 5       	|
-| Tawthalin   	|     30    	|     30    	|     30    	| 6       	|
-| Thadingyut  	|     29    	|     29    	|     29    	| 7       	|
-| Tazaungmon  	|     30    	|     30    	|     30    	| 8       	|
-| Nadaw       	|     29    	|     29    	|     29    	| 9       	|
-| Pyatho      	|     30    	|     30    	|     30    	| 10      	|
-| Tabodwe     	|     29    	|     29    	|     29    	| 11      	|
-| Tabaung     	|     30    	|     30    	|     30    	| 12      	|
-| ***Total*** 	| ***354*** 	| ***384*** 	| ***385*** 	|         	|
-
 """
 
 import math

@@ -1,11 +1,12 @@
 # /* cSpell:disable */
 
 """
-Burmesedate , Burmese Calendar API
+
+.. include:: ./index.md
+
 """
 
-""" 
-Important note: the accuracy of this Burmese date is in question!
-"""
+from .burmesedate import burmesedate
+
 
 
