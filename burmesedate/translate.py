@@ -393,8 +393,8 @@ def set_lang():
         ],
         [
             " ",
-            "Afternoon",
-            "မွန်းလွဲ"
+            "Afternoon Pyathada",
+            "မွန်းလွဲပြဿဒါး"
         ],
         [
             " ",

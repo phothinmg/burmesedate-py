@@ -1,3 +1,4 @@
+# /* cSpell:disable */
 """
 # Getting Burmese Calendar Data
 

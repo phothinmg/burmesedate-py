@@ -1,3 +1,4 @@
+# /* cSpell:disable */
 """
 Checking Astrological days
 
@@ -7,9 +8,7 @@ More details @ http://cool-emerald.blogspot.sg/2013/12/myanmar-astrological-cale
 
 import math
 import sys
-from burmese.burme import calculate_month_length, julian_to_burmese
-
-sys.path.append("/home/ptm/Documents/Python-Projects/burmethon/burmethon")
+from .burme import calculate_month_length, julian_to_burmese
 
 
 def calculate_sabbath(md: int, mm: int, myt: int) -> int:
@@ -388,3 +387,5 @@ def calculate_astro_days(jd: float) -> list:
 
 
 # ========================================================
+
+

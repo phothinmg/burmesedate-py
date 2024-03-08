@@ -101,8 +101,8 @@ def set_sabbath():
     """
     return [
         "false",
-        "sabbath",
-        "sabbath_eve"
+        "Sabbath",
+        "Sabbath Eve"
     ]
 
 
