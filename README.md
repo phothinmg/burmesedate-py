@@ -1,6 +1,6 @@
 # Burmese Date
 
-**Burmese Calender API in Python**
+**Burmese Calendar API in Python**
 
 ---
 
